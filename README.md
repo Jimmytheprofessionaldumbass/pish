@@ -1,6 +1,6 @@
 # Python Interactive SHell
 
-Python Interactive SHell or PISH is a shell written completely in python using the os and sys module.
+Python Interactive SHell or PISH is a shell written completely in python using default python modules.
 
 It is a hobbie project I would like to work with when I am bored.
 
