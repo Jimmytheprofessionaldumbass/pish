@@ -1,10 +1,11 @@
 Planning ahead on how the directory is going to be formed over.
 
+Main.py
 Basic Functions
   Navigation
-    wai.py (outputs working directory)
+    wai.py (prints working directory)
     lf.py (lists files in current directory)
-    gt.py (changes current working directory)
+    gt.py (goes to another directory)
     fd.py (finds a item)
   Creating Changes
     rn.py (renames files)
@@ -31,3 +32,35 @@ Basic Functions
     dl.py (pause for a certain time)
     sc.py (creates a shortcut for a command)
     ou.py (outputs text)
+Descriptions.txt
+Manuals
+  Navigation
+    wai.txt
+    lf.txt
+    gt.txt
+    fd.txt
+  Creating
+    rn.txt
+    dc.txt
+    mi.txt
+    ri.txt
+    ct.txt
+  Help
+    mn.txt
+    hp.txt
+    fc.txt
+  Files
+    Manipulating Contents
+      ed.txt
+      kb.txt
+      fr.txt
+    dp.txt
+    op.txt
+  Proccess
+    qt.txt
+    ei.txt
+  Other
+    mt.txt
+    dl.txt
+    sc.txt
+    ou.txt
