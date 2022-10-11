@@ -1,4 +1,5 @@
 Planning ahead on how the directory is going to be formed over.
+items are files or folders
 
 Main.py
 Basic Functions
