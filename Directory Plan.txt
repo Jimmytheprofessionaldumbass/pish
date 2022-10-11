@@ -3,34 +3,33 @@ Planning ahead on how the directory is going to be formed over.
 Main.py
 Basic Functions
   Navigation
-    wai.py (prints working directory)
-    lf.py (lists files in current directory)
-    gt.py (goes to another directory)
+    wai.py (outputs working directory)
+    lf.py (outputs items in working directory)
+    gt.py (changes working directory)
     fd.py (finds a item)
   Creating Changes
-    rn.py (renames files)
-    dc.py (duplicates item)
-    mi.py (moves item)
-    ri.py (removes item)
-    ct.py (creates item; can be a file or directory)
+    rn.py (renames items)
+    dc.py (copies items)
+    mi.py (moves items)
+    ri.py (deletes items)
+    ct.py (creates item; may be a file or directory)
   Help
-    mn.py (shows the manual)
-    hp.py (shows help)
-    fc.py (helps user find a command don't know the name of)
+    hp.py (shows help or manual of a command)
+    fc.py (shows commands with the desired function)
   Files
     Manipulating Contents
       ed.py (text editor)
       kb.py (combines file contents)
-      fr.py (find text in file contents and may replace it)
+      fr.py (finds text in contents)
     dp.py (display contents of a file)
-    op.py (opens a file or program)
+    op.py (opens a item or program)
   Proccess
-    qt.py (quits a program)
-    ei.py (exits)
+    qt.py (exits a program)
+    ei.py (exits shell)
   Other
-    mt.py (solves math equations)
+    mt.py (solves a math expression)
     dl.py (pause for a certain time)
-    sc.py (creates a shortcut for a command)
+    sc.py (creates shortcuts for a commands)
     ou.py (outputs text)
 Descriptions.txt
 Manuals
