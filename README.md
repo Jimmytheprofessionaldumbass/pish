@@ -10,7 +10,6 @@ The objective is to make a minimalist shell using python, not recomended for beg
 
 - [x] v0.1 Check conciseness
 - [x] v0.15  Finish v1.0 plan
-
 - [ ] v0.22     Finish navigation cmds
 - [ ] v0.24     Finish manipulation cmds
 - [ ] v0.25     Finish help cmds
@@ -20,7 +19,6 @@ The objective is to make a minimalist shell using python, not recomended for beg
 - [ ] v0.28     Finish other cmds
 - [ ] v0.29     Check conciseness
 - [ ] v0.3  Finalize directory plan
-
 - [ ] v0.42     Finish navigation mnls
 - [ ] v0.44     Finish manipulation mnls
 - [ ] v0.45     Finish help mnls
@@ -30,7 +28,6 @@ The objective is to make a minimalist shell using python, not recomended for beg
 - [ ] v0.48     Finish other mnls
 - [ ] v0.49     Check conciseness
 - [ ] v0.5  Finalize manuals
-
 - [ ] v0.62     Finish navigation cmds
 - [ ] v0.64     Finish manipulation cmds
 - [ ] v0.65     Finish help cmds
@@ -40,12 +37,9 @@ The objective is to make a minimalist shell using python, not recomended for beg
 - [ ] v0.68     Finish other cmds
 - [ ] v0.69     Check conciseness
 - [ ] v0.7  Finalize cmds
-
 - [ ] v0.8  Add useful cmds
 - [ ] v0.85 Remove useless cmds
-
 - [ ] v0.9  Reorganize and finalize
 - [ ] v0.95 Minimize project file size
 - [ ] v0.99 Finalize
-
 - [ ] v1.0  Continue development
