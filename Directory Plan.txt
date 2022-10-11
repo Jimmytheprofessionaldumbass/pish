@@ -6,6 +6,7 @@ Basic Functions
     wai.py (outputs working directory)
     lf.py (lists files in current directory)
     gt.py (changes current working directory)
+    fd.py (finds a item)
   Creating Changes
     rn.py (renames files)
     dc.py (duplicates item)
@@ -17,6 +18,10 @@ Basic Functions
     hp.py (shows help)
     fc.py (helps user find a command don't know the name of)
   Files
+    Manipulating Contents
+      ed.py (text editor)
+      kb.py (combines file contents)
+      fr.py (find text in file contents and may replace it)
     dp.py (display contents of a file)
     op.py (opens a file or program)
   Proccess
