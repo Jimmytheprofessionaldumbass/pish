@@ -16,13 +16,14 @@ Basic Functions
     mn.py (shows the manual)
     hp.py (shows help)
     fc.py (helps user find a command don't know the name of)
-  Display
+  Files
     dp.py (display contents of a file)
-    ou.py (outputs text)
-  Program
+    op.py (opens a file or program)
+  Proccess
     qt.py (quits a program)
     ei.py (exits)
   Other
     mt.py (solves math equations)
     dl.py (pause for a certain time)
     sc.py (creates a shortcut for a command)
+    ou.py (outputs text)
