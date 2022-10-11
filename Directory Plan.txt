@@ -16,7 +16,11 @@ Basic Functions
     mn.py (shows the manual)
     hp.py (shows help)
     fc.py (helps user find a command don't know the name of)
+  Display
+  Program
+    qt.py (quits a program)
+    ei.py (exits)
   Other
     ou.py (outputs text)
     mt.py (solves math equations)
-    qt.py (exits)
+    
