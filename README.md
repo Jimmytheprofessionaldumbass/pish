@@ -1,19 +1,51 @@
 # Python Interactive SHell
 
-PISH is a shell written completely in python using default python modules.
+PISH, a shell written in python.
 
-It is a hobbie project I would like to work with when I am bored.
+All commands are in `.py` files for easy organization for `main.py` concatenation.
 
-All commands are seperated into `.py` files for easy organization at the end when combining into the `main.py` file.
-
-The goal of this project is to make a minimalist shell using python, the shell is not targeted towards beginners.
+The objective is to make a minimalist shell using python, not recomended for beginners.
 
 # Version Plan
 
-- [x] v0.1 Make directory plan
-- [x] v0.2 Finish directory plan basic cmds
-- [x] v0.3 Finish concise cmd descriptions
-- [ ] v0.4 Finish manual plan
-- [ ] v0.5 Finish directory plan
-- [ ] v0.6 Finish version plan
-- [ ] v0.7 Finish navigation cmds
+- [x] v0.1 Check conciseness
+- [x] v0.15  Finish v1.0 plan
+
+- [ ] v0.22     Finish navigation cmds
+- [ ] v0.24     Finish manipulation cmds
+- [ ] v0.25     Finish help cmds
+- [ ] v0.26         Finish editing contents cmds
+- [ ] v0.26     Finish files cmds
+- [ ] v0.27     Finish process cmds
+- [ ] v0.28     Finish other cmds
+- [ ] v0.29     Check conciseness
+- [ ] v0.3  Finalize directory plan
+
+- [ ] v0.42     Finish navigation mnls
+- [ ] v0.44     Finish manipulation mnls
+- [ ] v0.45     Finish help mnls
+- [ ] v0.46         Finish editing contents mnls
+- [ ] v0.46     Finish files mnls
+- [ ] v0.47     Finish process mnls
+- [ ] v0.48     Finish other mnls
+- [ ] v0.49     Check conciseness
+- [ ] v0.5  Finalize manuals
+
+- [ ] v0.62     Finish navigation cmds
+- [ ] v0.64     Finish manipulation cmds
+- [ ] v0.65     Finish help cmds
+- [ ] v0.66         Finish editing contents cmds
+- [ ] v0.66     Finish files cmds
+- [ ] v0.67     Finish process cmds
+- [ ] v0.68     Finish other cmds
+- [ ] v0.69     Check conciseness
+- [ ] v0.7  Finalize cmds
+
+- [ ] v0.8  Add useful cmds
+- [ ] v0.85 Remove useless cmds
+
+- [ ] v0.9  Reorganize and finalize
+- [ ] v0.95 Minimize project file size
+- [ ] v0.99 Finalize
+
+- [ ] v1.0  Continue development
