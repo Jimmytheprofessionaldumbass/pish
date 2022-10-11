@@ -1,4 +1,4 @@
-I am doing this so that it doesn't get to confused when I am creating the directories.
+Planning ahead on how the directory is going to be formed over.
 
 Basic Functions
   Navigation
