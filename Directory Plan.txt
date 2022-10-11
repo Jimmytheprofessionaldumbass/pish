@@ -3,34 +3,16 @@ Manny commands have different names for excecuting them but does the exact same 
 
 Basic Functions
   Navigation
-    owd.py <
-    wai.py ^ (outputs working directory)
-    ls.py <
-    see.py ^(lists files in current directory)
-    cd.py <
-    gt.py ^ (changes current working directory)
+    wai.py (outputs working directory)
+    lf.py (lists files in current directory)
+    gt.py (changes current working directory)
   Creating Changes
-    rn.py. <
-    rename.py ^ (renames files
-    mv.py <
-    move.py ^ (moves files)
-    cp.py <
-    dp.py ^
-    copy.py  ^
-    duplicate.py ^ (copies files)
-    md.py  <
-    mkdir.py ^ (creates directories)
-    rd.py  <
-    rmdir.py ^ (removes directories)
-    rf.py <
-    rmfl.py ^ (removes files)
+    rn.py (renames files)
+    dp.py (duplicates item)
+    mi.py (moves item)
+    ri.py (removes item)
+    md.py (makes directories)
   Help
-    mn.py <
-    man.py  ^
-    manual.py ^ (shows the manual)
-    hp.py <
-    help.py ^ (shows help)
-    fc.py  <
-    findc.py  ^
-    fdcommand.py ^
-    findcommand.py ^ (helps user find a command don't know the name of)
+    mn.py (shows the manual)
+    hp.py (shows help)
+    fc.py (helps user find a command don't know the name of)
