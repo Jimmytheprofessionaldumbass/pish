@@ -16,3 +16,6 @@ Basic Functions
     mn.py (shows the manual)
     hp.py (shows help)
     fc.py (helps user find a command don't know the name of)
+  Other
+    op.py (outputs text)
+    mt.py (solves math equations)
