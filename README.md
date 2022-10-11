@@ -15,3 +15,4 @@ The goal of this project is to make a minimalist shell using python, the shell i
 - [x] v0.3 Finish concise command descriptions
 - [ ] v0.4 Finish manual plan
 - [ ] v0.5 Finish directory plan
+- [ ] v0.6 Finish version plan
