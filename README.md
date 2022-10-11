@@ -1,9 +1,6 @@
 # Python Interactive SHell
 
-Python
-Interactive
-S
-Hell or PISH is a shell written completely in python using default python modules.
+Python Interactive SHell or PISH is a shell written completely in python using default python modules.
 
 It is a hobbie project I would like to work with when I am bored.
 
