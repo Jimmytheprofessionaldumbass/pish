@@ -8,19 +8,21 @@ Basic Functions
     gt.py (changes current working directory)
   Creating Changes
     rn.py (renames files)
-    dp.py (duplicates item)
+    dc.py (duplicates item)
     mi.py (moves item)
     ri.py (removes item)
-    md.py (makes directories)
+    ct.py (creates item; can be a file or directory)
   Help
     mn.py (shows the manual)
     hp.py (shows help)
     fc.py (helps user find a command don't know the name of)
   Display
+    dp.py (display contents of a file)
+    ou.py (outputs text)
   Program
     qt.py (quits a program)
     ei.py (exits)
   Other
-    ou.py (outputs text)
     mt.py (solves math equations)
-    
+    dl.py (pause for a certain time)
+    sc.py (creates a shortcut for a command)
