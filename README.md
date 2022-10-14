@@ -11,12 +11,12 @@ The objective is to make a minimalist shell using python, not recomended for beg
 - [x] v0.1 Check conciseness
 - [x] v0.15  Finish v1.0 plan
 - [x] v0.22     Add navigation cmds
-- [ ] v0.24     Add manipulation cmds
-- [ ] v0.25     Add help cmds
-- [ ] v0.26         Add editing contents cmds
-- [ ] v0.26     Add files cmds
-- [ ] v0.27     Add process cmds
-- [ ] v0.28     Add other cmds
+- [x] v0.24     Add manipulation cmds
+- [x] v0.25     Add help cmds
+- [x] v0.26         Add editing contents cmds
+- [x] v0.26     Add files cmds
+- [x] v0.27     Add process cmds
+- [x] v0.28     Add other cmds
 - [ ] v0.29     Check conciseness
 - [ ] v0.3  Finalize directory plan
 - [ ] v0.42     Finish navigation mnls
