@@ -10,7 +10,7 @@ The objective is to make a minimalist shell using python, not recomended for beg
 
 - [x] v0.1 Check conciseness
 - [x] v0.15  Finish v1.0 plan
-- [ ] v0.22     Add navigation cmds
+- [x] v0.22     Add navigation cmds
 - [ ] v0.24     Add manipulation cmds
 - [ ] v0.25     Add help cmds
 - [ ] v0.26         Add editing contents cmds
