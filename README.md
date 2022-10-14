@@ -10,13 +10,13 @@ The objective is to make a minimalist shell using python, not recomended for beg
 
 - [x] v0.1 Check conciseness
 - [x] v0.15  Finish v1.0 plan
-- [ ] v0.22     Finish navigation cmds
-- [ ] v0.24     Finish manipulation cmds
-- [ ] v0.25     Finish help cmds
-- [ ] v0.26         Finish editing contents cmds
-- [ ] v0.26     Finish files cmds
-- [ ] v0.27     Finish process cmds
-- [ ] v0.28     Finish other cmds
+- [ ] v0.22     Add navigation cmds
+- [ ] v0.24     Add manipulation cmds
+- [ ] v0.25     Add help cmds
+- [ ] v0.26         Add editing contents cmds
+- [ ] v0.26     Add files cmds
+- [ ] v0.27     Add process cmds
+- [ ] v0.28     Add other cmds
 - [ ] v0.29     Check conciseness
 - [ ] v0.3  Finalize directory plan
 - [ ] v0.42     Finish navigation mnls
