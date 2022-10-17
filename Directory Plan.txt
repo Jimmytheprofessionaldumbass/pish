@@ -4,33 +4,33 @@ items are files or folders
 Main.py
 Basic Functions
   Navigation
-    wai.py (outputs working directory)
-    lf.py (outputs items in working directory)
-    gt.py (changes working directory)
-    fd.py (finds a item)
+    wai.py (outputs working dir)
+    lf.py (outputs items in working dir)
+    gt.py (changes dir)
+    fd.py (finds a itm)
   Manipulation
-    rn.py (renames items)
-    dc.py (copies items)
-    mi.py (moves items)
-    ri.py (deletes items)
-    ct.py (creates item; may be a file or directory)
+    rn.py (renames itms)
+    dc.py (copies itms)
+    mi.py (moves itms)
+    ri.py (deletes itms)
+    ct.py (creates itm; may be a file or dir)
   Help
-    hp.py (shows help or manual of a command)
-    fc.py (shows commands with the desired function)
+    hp.py (shows help or manual of a cmd)
+    fc.py (shows cmds with the input funct)
   Files
     Manipulating Contents
       ed.py (text editor)
-      kb.py (combines file contents)
-      fr.py (finds text in contents)
-    dp.py (display contents of a file)
-    op.py (opens a item or program)
+      kb.py (combines file conts)
+      fr.py (finds text in conts)
+    dp.py (display conts of a file)
+    op.py (opens a itm or prgm)
   Proccess
-    qt.py (exits a program)
-    ei.py (exits shell)
+    qt.py (exits a prgm)
+    ei.py (exits sh)
   Other
-    mt.py (solves a math expression)
-    dl.py (pause for a certain time)
-    sc.py (creates shortcuts for a commands)
+    mt.py (solves a math expr)
+    dl.py (pause for a some time)
+    sc.py (creates shortcuts for a cmd)
     ou.py (outputs text)
 Descriptions.txt
 Manuals
