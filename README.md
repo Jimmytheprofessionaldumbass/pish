@@ -1,6 +1,6 @@
 # Python Interactive SHell
 
-PISH, a shell written in python.
+PISH, a small shell written in python.
 
 All commands are in `.py` files for easy organization for `main.py` concatenation.
 
