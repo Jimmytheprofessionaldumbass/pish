@@ -17,8 +17,8 @@ The objective is to make a minimalist shell using python, not recomended for beg
 - [x] v0.26     Add files cmds
 - [x] v0.27     Add process cmds
 - [x] v0.28     Add other cmds
-- [ ] v0.29     Check conciseness
-- [ ] v0.3  Finalize directory plan
+- [x] v0.29     Check conciseness
+- [x] v0.3  Finalize directory plan
 - [ ] v0.42     Finish navigation mnls
 - [ ] v0.44     Finish manipulation mnls
 - [ ] v0.45     Finish help mnls
